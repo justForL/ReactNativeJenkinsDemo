@@ -1,0 +1,1 @@
+react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.bundle.js server/public --assets-dest android/app/src/main/assets
